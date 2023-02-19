@@ -18,3 +18,5 @@ This is a training material for a student
 - rebuild a docker image
 - run the server on docker
 
+BONUS:
+- add the solution file to the server and visualize the page. 
