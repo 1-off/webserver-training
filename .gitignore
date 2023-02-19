@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+
+# Virtual environment
+venv/
+env/
+pipenv/
+.venv/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.sublime-workspace
+
+# OS-specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Compiled files
+*.pyc
+*.class
+*.o
+*.a
+*.dll
+*.exe
+*.so
+*.out
+
+# Archives
+*.zip
+*.rar
+*.gz
+*.tgz
+*.tar
+*.bz2
+*.7z
